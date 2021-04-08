@@ -5,9 +5,8 @@
       <h2 class="subtitle text-center">You’ve arrived at this page because you typed or linked to “shreyaan.co”, Shreyaan’s official URL shortcut just for Shreyaan's websites.</h2>
 <br></br>
 <h2 class="subtitle text-center">Whenever you see a short “shreyaan.co” link, you can trust that it will always take you to a trusted product or service.</h2>
-    </section>
     <br></br>
-<h2 class="subtitle text-center">Some examples of 'shreyaan.co' links are <a href="https://www.shreyaan.tech/">blog.shreyaan.co</a> or <a href="https://www.shreyaan.tech/">shreyaan.co/blog</a></h2>
+<h2 class="subtitle text-center">Some examples of 'shreyaan.co' links are <a href="https://blog.shreyaan.co/">blog.shreyaan.co</a> or <a href="https://www.shreyaan.tech/">shreyaan.co/blog</a></h2>
     </section>
 
   </main>
