@@ -1,1 +1,1 @@
-window.location.href = 'https://www.youtube.com/shreyaanvashishtha';
+const routes = [{ path: '/yt', redirect: 'https://www.google.com' }]
