@@ -1,6 +1,4 @@
-/gh                https://github.com/shreyaanvashishtha
-/tw                https://twitter.com/shreyaanoneplus
-/yt                https://www.youtube.com/shreyaanvashishtha
-
-#Fallback
-/*                 https://shreyaan.co
+# Redirects from what the browser requests to what we serve
+/home              /
+/blog              https://shreyaan.tech
+/cuties            https://www.petsofnetlify.com
