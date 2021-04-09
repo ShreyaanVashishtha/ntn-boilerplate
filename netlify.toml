@@ -7,6 +7,12 @@ publish = "dist"
   to = "https://shreyaan.tech"
   status = 301
   force = true
+  
+[[redirects]]
+  from = "/yt"
+  to = "https://www.youtube.com/shreyaanvashishtha"
+  status = 301
+  force = true
 
 # [[plugins]]
 # package = "netlify-plugin-subfont"
