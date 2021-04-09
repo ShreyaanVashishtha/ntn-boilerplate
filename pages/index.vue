@@ -8,7 +8,7 @@
     <br></br>
     
  <br></br>
-<h2 class="subtitle text-center">Some examples of “shreyaan.co” links are <a href="https://blog.shreyaan.co">blog.shreyaan.co</a> and <a href="https://shreyaan.co/blog">shreyaan.co/blog</a></h2>
+<h2 class="subtitle text-center">Some examples of “shreyaan.co” links are <u><a href="https://blog.shreyaan.co">blog.shreyaan.co</a></u> and <u><a href="https://shreyaan.co/blog">shreyaan.co/blog</a></u></h2>
 
   </main>
 </template>
