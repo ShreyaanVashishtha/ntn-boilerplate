@@ -2,5 +2,11 @@
 command = "npm run generate"
 publish = "dist"
 
+[[redirects]]
+  from = "/blog"
+  to = "https://shreyaan.tech"
+  status = 301
+  force = true
+
 # [[plugins]]
 # package = "netlify-plugin-subfont"
