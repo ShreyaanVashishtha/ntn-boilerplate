@@ -6,7 +6,9 @@
 <br></br>
 <h2 class="subtitle text-center">Whenever you see a short “shreyaan.co” link, you can trust that it will always take you to a trusted product or service.</h2>
     <br></br>
-
+    
+ <br></br>
+<h2 class="subtitle text-center">Some examples of “shreyaan.co” links are <a href="https://blog.shreyaan.co">blog.shreyaan.co</a> and <a href="https://shreyaan.co/blog">shreyaan.co/blog</a></h2>
 
   </main>
 </template>
