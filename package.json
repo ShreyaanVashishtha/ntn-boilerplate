@@ -1,8 +1,8 @@
 {
-  "name": "ntn-boilerplate",
+  "name": "Shreyaan.co",
   "version": "2.0.0",
-  "description": "Nuxt-Tailwind-NetlifyCMS boilerplate",
-  "author": "Sven Parker <sven@svenparker.com> (https://svenparker.com)",
+  "description": "Whenever you see a short “shreyaan.co” link, you can trust that it will always take you to a trusted product or service.",
+  "author": "Shreyaan Vashishtha <Shreyaan@shreyaan.tech> (https://shreyaan.tech)",
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/knogobert/ntn-boilerplate#readme"
+    "url": "https://github.com/shreyaanvashishtha/ntn-boilerplate#readme"
   },
   "license": "MIT",
   "dependencies": {
