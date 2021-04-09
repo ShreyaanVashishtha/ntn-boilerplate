@@ -13,6 +13,24 @@ publish = "dist"
   to = "https://www.youtube.com/shreyaanvashishtha"
   status = 301
   force = true
-
+  
+[[redirects]]
+  from = "/doter"
+  to = "https://doter.cc"
+  status = 301
+  force = true
+  
+[[redirects]]
+  from = "/forumic"
+  to = "https://www.forumic.net"
+  status = 301
+  force = true
+  
+[[redirects]]
+  from = "/yt"
+  to = "https://www.youtube.com/shreyaanvashishtha"
+  status = 301
+  force = true
+  
 # [[plugins]]
 # package = "netlify-plugin-subfont"
