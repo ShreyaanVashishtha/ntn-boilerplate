@@ -38,5 +38,11 @@ publish = "dist"
   status = 301
   force = true
   
+[[redirects]]
+  from = "/github"
+  to = "https://github.com/ShreyaanVashishtha"
+  status = 301
+  force = true
+  
 # [[plugins]]
 # package = "netlify-plugin-subfont"
