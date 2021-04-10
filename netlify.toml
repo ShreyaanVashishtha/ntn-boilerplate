@@ -32,5 +32,11 @@ publish = "dist"
   status = 301
   force = true
   
+[[redirects]]
+  from = "/yt_subscribe"
+  to = "https://www.youtube.com/channel/UCyu1dpKpSsbKjSr5pT06Uuw?sub_confirmation=1"
+  status = 301
+  force = true
+  
 # [[plugins]]
 # package = "netlify-plugin-subfont"
