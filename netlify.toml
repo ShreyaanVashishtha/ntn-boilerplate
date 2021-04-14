@@ -44,5 +44,17 @@ publish = "dist"
   status = 301
   force = true
   
+[[redirects]]
+  from = "/git-org"
+  to = "https://github.com/Shreyaan-Vashishtha"
+  status = 301
+  force = true
+  
+[[redirects]]
+  from = "/after-effects-visualizer-file"
+  to = "https://drive.google.com/file/d/13SGQ8lhVfensHa4vtTooBb0dIIkQs5uZ/view?usp=sharing"
+  status = 301
+  force = true
+  
 # [[plugins]]
 # package = "netlify-plugin-subfont"
