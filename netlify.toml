@@ -56,5 +56,11 @@ publish = "dist"
   status = 301
   force = true
   
+ [redirects]]
+  from = "/buddyquiz"
+  to = "https://buddymojo.com/match/dGr3g"
+  status = 301
+  force = true
+  
 # [[plugins]]
 # package = "netlify-plugin-subfont"
