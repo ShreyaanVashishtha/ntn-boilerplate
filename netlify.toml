@@ -56,7 +56,7 @@ publish = "dist"
   status = 301
   force = true
   
- [redirects]]
+[[redirects]]
   from = "/buddyquiz"
   to = "https://buddymojo.com/match/dGr3g"
   status = 301
