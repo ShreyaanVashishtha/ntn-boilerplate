@@ -67,6 +67,12 @@ publish = "dist"
   to = "https://www.shreyaan.tech/2021/04/10-best-screen-recording-apps-for.html"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/ig"
+  to = "https://https://www.instagram.com/shreyaanvashishtha/"
+  status = 301
+  force = true
   
 # [[plugins]]
 # package = "netlify-plugin-subfont"
