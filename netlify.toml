@@ -70,7 +70,7 @@ publish = "dist"
 
 [[redirects]]
   from = "/ig"
-  to = "https://https://www.instagram.com/shreyaanvashishtha/"
+  to = "https://www.instagram.com/shreyaanvashishtha/"
   status = 301
   force = true
   
