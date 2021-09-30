@@ -76,7 +76,7 @@ publish = "dist"
   
  [[redirects]]
   from = "/discord"
-  to = "https://discord.gg/PhynUtexKe"
+  to = "https://discord.gg/m8uccSwb77"
   status = 301
   force = true
   
